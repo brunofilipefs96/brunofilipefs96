@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyuubii1996&label=Profile%20views&color=0e75b6&style=flat" alt="kyuubii1996" /> </p>
 
-- 🔭 I’m currently working as a **Jewelery Specialist**
-
-- 🌱 I’m currently taking a course of **Specialist Technician in Technologies and Programming of Information Systems (Level 5) at ATEC**
+- 🌱 I’m currently taking a level 5 Programming course at ATEC**
 
 - 📫 How to reach me **brunofilipefs96@gmail.com**
 
