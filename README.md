@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate developer from Portugal</h3>
+<h1 align="center">Hello 👋, I'm Bruno Silva</h1>
+<h3 align="center">A Dynamic Fullstack Developer from Portugal with a particular interest in backend development, but comfortable working in a variety of areas related to software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunofilipefs96&label=Profile%20views&color=0e75b6&style=flat" alt="brunofilipefs96" /> </p>
 
-- 🌱 I’m currently taking a level 5 Programming course at ATEC, while doing an internship as a Software Engineer at Logicalis Portugal.
+- 🌱 I currently work as a Frontend Developer at Logicalis Portugal, where I focus on delivering high-quality user interfaces and improving the user experience through modern technologies and best practices.
 
 - 📫 How to reach me: **brunofilipefs96@gmail.com**
 
