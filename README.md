@@ -55,5 +55,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunofilipefs96&show_icons=true&locale=en&layout=compact" alt="brunofilipefs96" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunofilipefs96&show_icons=true&locale=en" alt="brunofilipefs96" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunofilipefs96&" alt="brunofilipefs96" /></p>
