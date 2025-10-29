@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunofilipefs96&label=Profile%20views&color=0e75b6&style=flat" alt="brunofilipefs96" /> </p>
 
-- 🌱 I currently work as a Frontend Developer at Logicalis Portugal, where I focus on delivering high-quality user interfaces and improving the user experience through modern technologies and best practices.
+- 🌱 I currently work as a Full Stack Developer at Logicalis Portugal, where I focus on delivering high-quality user interfaces and improving the user experience through modern technologies and best practices.
 
 - 📫 How to reach me: **brunofilipefs96@gmail.com**
 
