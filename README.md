@@ -11,44 +11,11 @@ Full Stack Developer | Java | Spring Boot | Angular | Azure | DevOps
 
 ### 👋 About
 
-I’m a Full Stack Developer with a strong backend focus, experienced in building and maintaining production-grade web applications.  
-My background is centered around **Java & Spring Boot**, RESTful APIs, integrations, and CI/CD pipelines, with solid experience across the full development lifecycle.
-
-I currently work at **Logicalis Portugal**, contributing to multiple client projects involving backend systems, frontend applications, and DevOps workflows.
-
----
-
-### 💼 What I Work With
-
-**Backend**
-- Java, Spring Boot
-- REST APIs & third-party integrations
-- Application architecture & performance improvements
-
-**Frontend**
-- Angular, TypeScript, JavaScript
-- HTML, CSS, Bootstrap
-
-**Databases**
-- PostgreSQL
-- Microsoft SQL Server
-
-**DevOps / Infrastructure**
-- Docker, Jenkins (CI/CD pipelines)
-- Linux environments
-- Nginx
-- Cloud platforms: AWS, Azure
-
----
-
-### 🚀 Experience Highlights
-
-- Led the development of a full-scale gym management platform (**Top Performance & Rehab**), from requirements to production  
-- Experience working in cross-functional teams delivering solutions for multiple clients  
-- Hands-on involvement in backend development, frontend implementation, and automated deployment pipelines  
-- Strong focus on code quality, maintainability, and continuous improvement
-
----
+I am a Full Stack Developer with experience building scalable and maintainable applications using Java, Spring Boot, Angular, TypeScript, Azure, CI/CD, Docker, and PostgreSQL/SQL Server. Currently at Logicalis Portugal, I contribute to the development and maintenance of enterprise applications used by multiple clients.
+ 
+I enjoy working across the full development lifecycle, contributing to both backend and frontend solutions while keeping performance, usability, and reliability in focus. My work is driven by a strong interest in solving real problems through technology, turning complex requirements into practical solutions, improving development workflows, and building systems that support both user needs and business goals.
+ 
+I value collaboration and clear communication. I am motivated by continuous learning and by the opportunity to contribute to solutions that are robust, efficient, and genuinely useful.
 
 ### 📫 Contact
 
