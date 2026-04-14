@@ -1,6 +1,6 @@
 <h1 align="center">Bruno Silva</h1>
 <h3 align="center">
-Full Stack Developer (Backend-Oriented) — Java / Spring Boot
+Full Stack Developer | Java | Spring Boot | Angular | Azure | DevOps
 </h3>
 
 <p align="center">
