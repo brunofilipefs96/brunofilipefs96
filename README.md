@@ -16,11 +16,11 @@ Passionate about software engineering, clean code and scalable solutions. Always
 
 ### 🛠️ Technologies & Tools
 
-- **Backend:** Java, Spring Boot, C#, C++, REST APIs
+- **Backend:** Java, Spring Boot, REST APIs
 - **Frontend:** Angular, TypeScript, HTML, CSS
-- **Cloud & DevOps:** Microsoft Azure, AWS, Docker, Kubernetes, CI/CD
+- **Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD
 - **Data & Databases:** Microsoft Fabric, PostgreSQL, SQL Server
-- **Other Tools:** Git, Unity, Claude Code, AI Coding Agents
+- **Other Tools:** Git, Claude Code, AI Coding Agents
 
 ### 📫 Contact
 
